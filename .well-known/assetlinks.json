@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.bai1",         // 💡 THAY package của bạn
+      "sha256_cert_fingerprints": [
+        "DA:BF:3E:95:A4:6A:FA:1C:10:21:71:85:36:B0:42:EE:B4:53:5E:55:2C:FD:A7:AE:7E:FB:36:43:AE:52:C9:0E"                // 💡 THAY SHA-256 của bạn
+      ]
+    }
+  }
+]
